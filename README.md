@@ -4,7 +4,7 @@ Repozytorium zawiera **pierwszy test automatyczny**, który powstał w ramach
 darmowego kursu **„Twój pierwszy test automatyczny”**.
 
 Celem tego repo jest pokazanie **prostego, czytelnego przykładu** bez
-frameworkowej magii i zbędnej abstrakcji — dokładnie tak, jak powinno się
+frameworkowej magii i zbędnej abstrakcji - dokładnie tak, jak powinno się
 zaczynać naukę automatyzacji.
 
 ---
